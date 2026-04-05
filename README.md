@@ -12,15 +12,15 @@ LLM agents · RAG pipelines · Agentic workflows · AI-assisted development · A
 
 ### What I've built
 
-**IoT Platform** — End-to-end perimeter security platform deployed across 7 countries. Go and Node.js backend, 15+ hardware integrations (ANPR cameras, access controllers, payment terminals), real-time monitoring. Built and led three engineering teams.
+**IoT Platform** — Perimeter security platform deployed across 7 countries. Go and Node.js backend, 15+ hardware integrations, three engineering teams built from scratch.
 
-**AI Systems** — LLM agents via AWS Bedrock for secure inference, RAG pipelines with pgvector for document intelligence, embedding pipelines through Azure AI Foundry with data privacy by design. Built an AI agent that processes customer emails into structured tasks automatically.
+**AI Systems** — LLM agents (AWS Bedrock), RAG pipelines (pgvector), embedding pipelines (Azure AI Foundry). Data privacy by design — no proprietary data reaches third-party providers.
 
-**Platform Migration (Copenhagen)** — Migrated a legacy platform to Go and React, achieving 214% traffic growth and 100x improvement in daily conversions. Four-year remote collaboration.
+**Platform Migration (Copenhagen)** — Legacy to Go + React migration. 214% traffic growth, 100x conversion improvement. Four-year remote engagement.
 
-**Enterprise SaaS** — Built a RESTful API framework and design standards adopted by 12 product teams.
+**Enterprise SaaS (Zoho)** — API framework and design standards adopted by 12 product teams.
 
-**Government Digital Transformation** — Highly available and scalable, Civil registry systems, PCI DSS compliance platforms, and real-time telecom asset monitoring.
+**Government Digital Transformation** — Civil registry systems, PCI DSS compliance platforms, real-time telecom monitoring.
 
 ### Find me
 
